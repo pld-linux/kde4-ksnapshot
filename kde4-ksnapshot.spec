@@ -5,12 +5,12 @@
 Summary:	K Desktop Environment - Snap Shot
 Summary(pl.UTF-8):	K Desktop Environment - Program do przechwytywania ekranu
 Name:		kde4-ksnapshot
-Version:	4.9.5
+Version:	4.10.0
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	2766ac1b1d9c8e1de62eaa8cbeb908cd
+# Source0-md5:	ff23d9e36f03f66218225ee297f0d51b
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel
 BuildRequires:	libjpeg-devel
